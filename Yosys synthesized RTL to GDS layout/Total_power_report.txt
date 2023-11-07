@@ -1,11 +1,11 @@
 report_power -corner $power_corner
 Group                  Internal  Switching    Leakage      Total
-                          Power      Power      Power          Power      (Watts)
+                          Power      Power      Power          Power     (Watts)
 ----------------------------------------------------------------
-Sequential         9.89e-03   1.62e-02   4.62e-09   2.61e-02      7.9%
-Combinational   9.78e-02   2.04e-01   5.31e-08   3.02e-01     92.1%
-Macro             0.00e+00   0.00e+00   0.00e+00   0.00e+00    0.0%
-Pad                 0.00e+00   0.00e+00   0.00e+00   0.00e+00    0.0%
+Sequential              9.89e-03   1.62e-02   4.62e-09   2.61e-02          7.9%
+Combinational           9.78e-02   2.04e-01   5.31e-08   3.02e-01         92.1%
+Macro                   0.00e+00   0.00e+00   0.00e+00   0.00e+00          0.0%
+Pad                     0.00e+00   0.00e+00   0.00e+00   0.00e+00          0.0%
 ----------------------------------------------------------------
-Total                 1.08e-01   2.20e-01   5.77e-08   3.28e-01     100.0%
+Total                   1.08e-01   2.20e-01   5.77e-08   3.28e-01         100.0%
                           32.8%      67.2%       0.0%
